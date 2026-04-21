@@ -23,22 +23,22 @@ The dataset contains flight-related information such as:
 
 ## ⚙️ Key Feature Engineering
 
-* **Date Processing**
+* **Date Processing :** 
   Extracted day, month, and year from journey date
 
-* **Time Features**
+* **Time Features :**
   Extracted hour and minutes from departure and arrival time
 
-* **Duration Handling**
+* **Duration Handling :**
   Converted duration into numerical format (hours & minutes)
 
-* **Stops Encoding**
+* **Stops Encoding :**
   Converted total stops into numerical values
 
-* **Categorical Encoding**
+* **Categorical Encoding :**
   Applied Label Encoding to categorical features (Airline, Source, Destination, etc.)
 
-* **Data Cleaning**
+* **Data Cleaning :**
   Removed inconsistent records and handled missing values
 
 ---
